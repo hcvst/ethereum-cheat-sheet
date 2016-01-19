@@ -8,6 +8,7 @@
 * `eth.blocknumber` - the last localy known blocknumber
 * `eth.getTransaction(txid)` - returns txid's transaction details
 * `eth.getTransactionReceipt(txid)` - returns txid's transaction receipt details
+* `eth.sendTransaction({from: aId, to:bId, value: amount})` - send Wei
 * ...
 *  `miner. ...`
 *  `net.peerCount` - the number of connected peers 
@@ -21,4 +22,4 @@
 ## Bookmarks
 * [https://stats.ethdev.com/]() - Ethereum live network statisticts
 * [http://ethernodes.org/]() - Visualisation of Ethereum nodes
-* [http://dapps.ethercasts.com/] - List of Đapps
+* [http://dapps.ethercasts.com/]() - List of Đapps
