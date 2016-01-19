@@ -15,7 +15,7 @@
 *  `personal.newAccount()` - function to create new account
 *  `ssh. ...`
 *  `txpool. ...`
-*  `web3.`
+*  `web3.toWei(0.01, "ether")` -  converts 0.01 Ether to Wei
 *  ...
 
 ## Bookmarks
